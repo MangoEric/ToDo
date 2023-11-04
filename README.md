@@ -6,7 +6,8 @@
 ## Tech ⚒️
 ```
 ├── backend : Phoenix - Elixir
-└── frontend : React - TypeScript
+├── frontend : React - TypeScript
+└── database : Postgres
 ```
 
 ## Video 🎥
